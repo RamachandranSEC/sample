@@ -1,4 +1,5 @@
 # sample
+```
 /* DESCRIPTION/DEFINITION SECTION */
 %{
 #include<stdio.h>
@@ -23,3 +24,4 @@ int main(){
  
  return 0;
 }
+```
